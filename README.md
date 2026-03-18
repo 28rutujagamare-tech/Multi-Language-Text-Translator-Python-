@@ -16,18 +16,18 @@ This is a command-line based language translator built using Python. It allows u
 ---
 # Install dependencies
 pip install translate
-# Run the program
+Run the program
 python translator.py
 
 
-#Learning Outcomes
+# Learning Outcomes
 1)Improved understanding of Python fundamentals
 2)Hands-on experience with dictionaries
 3)Learned user input handling
 4)Implemented exception handling
 5)Worked with external Python libraries
 
-#Future Improvements
+# Future Improvements
 1)Add GUI using Tkinter
 2)Add voice-based translation
 3)Support more languages
